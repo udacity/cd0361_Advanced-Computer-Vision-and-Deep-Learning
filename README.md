@@ -1,6 +1,6 @@
-# Computer Vision Nanodegree Program, Exercises
+# Advanced Computer Vision and Deep Learning, Exercises
 
-This repository contains code exercises and materials for Udacity's [Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891) program. It consists of tutorial notebooks that demonstrate, or challenge you to complete, various computer vision applications and techniques. These notebooks depend on a number of software packages to run, and so, we suggest that you create a local environment with these dependencies by following the instructions below.
+This repository contains code exercises and materials for Udacity's Advanced Computer Vision and Deep Learning course. It consists of tutorial notebooks that demonstrate, or challenge you to complete, various computer vision applications and techniques. These notebooks depend on a number of software packages to run, and so, we suggest that you create a local environment with these dependencies by following the instructions below.
 
 # Configure and Manage Your Environment with Anaconda
 
@@ -60,8 +60,7 @@ If you'd like to learn more about version control and using `git` from the comma
 
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 ```
-git clone https://github.com/udacity/CVND_Exercises.git
-cd CVND_Exercises
+git clone https://github.com/udacity/cd0361_Advanced-Computer-Vision-and-Deep-Learning.git
 ```
 
 2. Create (and activate) a new environment, named `cv-nd` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
@@ -102,7 +101,6 @@ Now all of the `cv-nd` libraries are available to you. Assuming you're environme
 
 ```
 cd
-cd CVND_Exercises
 jupyter notebook
 ```
 
